@@ -1,9 +1,9 @@
 # Greetings, I'm David Frias 🧑🏻‍💻 
 
 ## 🧑🏻 Bio 🧑🏻
-- :man_student: I'm a Software Engineer at [INTEC](https://www.intec.edu.do/)
+- :man_student: I'm a Software Engineer
 - 📲 Mobile Developer
-- :dominican_republic: I am from the Dominican Republic
+- :dominican_republic: I am from Dominican Republic
 
 ## 📲 Social Media 📲
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ldavid_ft/?hl=es-la)

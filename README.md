@@ -6,8 +6,6 @@
 - :dominican_republic: I am from Dominican Republic
 
 ## 📲 Social Media 📲
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ldavid_ft/?hl=es-la)
-[![Discord](https://img.shields.io/badge/daviing-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/luis-david-frias-torres-1522b5161/)
 [![Gmail](https://img.shields.io/badge/luisfrias2302@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](luisfrias2302@gmail.com)
 
